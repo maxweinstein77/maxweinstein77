@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋 I'm Max Weinstein</h2>
 
-# 💫 About Me:
+## 💫 About Me:
 I’m a second-year STEM student at the University of Austin (UATX), passionate about exploring coding, artificial intelligence, and building impactful projects.
 
-# 🚀 What I'm Up To:
+## 🚀 What I'm Up To:
 - Learning Python with [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
 
 ## 🌐 Connect with me:
@@ -13,6 +13,6 @@ I’m a second-year STEM student at the University of Austin (UATX), passionate 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/maxweinstein_) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@maxjweisntein) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
