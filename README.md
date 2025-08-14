@@ -1,3 +1,5 @@
+<h2 align="center">Hi 👋 I'm Max Weinstein</h2>
+
 # 💫 About Me:
 I’m a second-year STEM student at the University of Austin (UATX), passionate about exploring coding, artificial intelligence, and building impactful projects.
 
