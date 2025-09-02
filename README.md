@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Max Weinstein</h2>
 
 # 💫 About Me:
-I’m a second-year STEM student at the University of Austin (UATX), passionate about exploring coding, artificial intelligence, and building impactful projects.
+I’m a second-year STEM student at the University of Austin (UATX), passionate about the fields of coding, health, and artificial intelligence.
 
 ## 🚀 What I'm Up To:
 - Learning Python with [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
