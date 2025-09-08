@@ -4,8 +4,7 @@
 I’m a second-year STEM student at the University of Austin (UATX), passionate about the fields of coding, health, and artificial intelligence.
 
 ## 🚀 What I'm Up To:
-- Learning Python with [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
-- Building with [Python Mini Projects](https://github.com/Python-World/python-mini-projects?tab=readme-ov-file)
+- Learning Python with [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python), [Python Mini Projects](https://github.com/Python-World/python-mini-projects?tab=readme-ov-file), and [100 Days of Python](https://www.udemy.com/course/100-days-of-code/)
 
 ## 🌐 Let's Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maxjweinstein) 
