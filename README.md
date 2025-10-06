@@ -9,7 +9,8 @@ I’m a second-year STEM student at the University of Austin (UATX), passionate 
     - [100 Days of Code](https://www.udemy.com/course/100-days-of-code/)
 - Learning Java with:
     - [Java Full Course for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34)
-- Learning [NumPy](https://numpy.org/learn/)
+- Learning NumPy with:
+    - [NumPy Documentation](https://numpy.org/doc/stable/)
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxjweinstein) 
