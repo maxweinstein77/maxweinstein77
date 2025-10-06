@@ -6,8 +6,6 @@ I’m a second-year STEM student at the University of Austin (UATX), passionate 
 ## 🚀 What I'm Up To:
 - Building a Tunnel Boring Machine (TBM) with the [UATXcavators](https://github.com/JudahLevin/UATXcavators) for the Boring Company
 - Learning Python with:
-    -  [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
-    -  [Python Mini Projects](https://github.com/Python-World/python-mini-projects?tab=readme-ov-file)
     -  [100 Days of Code](https://www.udemy.com/course/100-days-of-code/)
 
 ## 🌐 Let's Connect:
