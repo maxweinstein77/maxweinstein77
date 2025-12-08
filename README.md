@@ -5,7 +5,7 @@ I’m a second-year STEM student at the University of Austin (UATX), passionate 
 
 ## 🚀 What I'm Up To:
 - Building a Tunnel Boring Machine (TBM) with the [UATXcavators](https://github.com/JudahLevin/UATXcavators) for the Boring Company
-- Learning Java with [The Ultimate Java Mastery Series](https://codewithmosh.com/p/the-ultimate-java-mastery-series)
+- Learning Java with [Amigoscode](https://www.youtube.com/watch?v=Qgl81fPcLc8)
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxjweinstein) 
