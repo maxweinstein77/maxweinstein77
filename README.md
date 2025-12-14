@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Max Weinstein</h2>
 
 # 💫 About Me:
-I’m a second-year STEM student at the University of Austin (UATX), interesting in computer science, health, and psychology.
+I’m a second-year STEM student at the University of Austin (UATX), interested in computer science, health, and psychology.
 
 ## 🚀 What I'm Up To:
 - Building a Tunnel Boring Machine (TBM) with the [UATXcavators](https://github.com/JudahLevin/UATXcavators) for the Boring Company
