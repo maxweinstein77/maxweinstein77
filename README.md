@@ -5,9 +5,9 @@ I’m a second-year STEM student at the University of Austin (UATX), interested 
 
 ## 🚀 What I'm Up To:
 - Building a Tunnel Boring Machine (TBM) with the [UATXcavators](https://github.com/JudahLevin/UATXcavators) for the Boring Company
+- Growing [Aviato](https://aviato.co/)
 - Learning Java with [Amigoscode](https://www.youtube.com/watch?v=Qgl81fPcLc8), [University of Helsinki](https://java-programming.mooc.fi/), and [University of Austin](https://www.uaustin.org/)
 - Learning Python with [100 Days of Code](https://www.udemy.com/course/100-days-of-code/)
-- Creating content for [Aviato](https://aviato.co/)
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxjweinstein) 
