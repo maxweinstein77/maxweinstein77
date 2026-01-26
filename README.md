@@ -4,7 +4,7 @@
 I’m a second-year STEM student at the University of Austin (UATX), interested in computer science, health, and statistics.
 
 ## 🚀 What I'm Up To:
-- Helping to scale [Aviato](https://aviato.co/)
+- Building [Aviato's](https://aviato.co/) content pipeline from the ground up
 - Building a Tunnel Boring Machine (TBM) with the [UATXcavators](https://github.com/JudahLevin/UATXcavators) for [The Boring Company](https://www.boringcompany.com/)
 - Learning Python with [100 Days of Code](https://www.udemy.com/course/100-days-of-code/) and [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/)
 - Learning Java with [Amigoscode](https://www.youtube.com/watch?v=Qgl81fPcLc8), [University of Helsinki](https://java-programming.mooc.fi/), and [University of Austin](https://www.uaustin.org/)
