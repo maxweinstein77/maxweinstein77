@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Max Weinstein</h2>
 
 # 💫 About Me:
-I’m a second-year STEM student at the University of Austin (UATX), interested in computer science, health, and statistics
+I’m a second-year STEM student at the University of Austin (UATX), interested in computer science, health, and statistics.
 
 ## 🚀 What I'm Up To:
 - Building [Aviato's](https://aviato.co/) content pipeline from the ground up
