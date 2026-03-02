@@ -6,6 +6,7 @@ I’m a second-year STEM student at the University of Austin (UATX), interested 
 ## 🚀 What I'm Up To:
 - Building [Aviato's](https://aviato.co/) content pipeline
 - Building a Tunnel Boring Machine (TBM) with the [UATXcavators](https://github.com/JudahLevin/UATXcavators) for [The Boring Company](https://www.boringcompany.com/)
+- Sidequesting on ML projects like [Siamese Network Facial Recognition App](https://github.com/maxweinstein77/SiameseNetworkFacialRecognitionApp)
 - Learning Java with [Amigoscode](https://www.youtube.com/watch?v=Qgl81fPcLc8), [University of Helsinki](https://java-programming.mooc.fi/), and [University of Austin](https://www.uaustin.org/)
 - Learning R with [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/) and [University of Austin](https://www.uaustin.org/)
 
