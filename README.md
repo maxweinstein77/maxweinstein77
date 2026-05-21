@@ -11,3 +11,7 @@ I’m a second-year STEM student at the University of Austin (UATX), interested 
 
 **Developer Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+
+## 🚀 What I'm Up To:
+- Building [synzoia]([https://aviato.co/](https://github.com/rmbriggs/synzoia)) 
