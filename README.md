@@ -4,7 +4,7 @@
 I’m a second-year STEM student at the University of Austin (UATX), interested in computer science, health, and philosophy.
 
 ## 🚀 What I'm Up To:
-- Building ![synzoia](https://github.com/rmbriggs/synzoia)
+- Building [synzoia](https://github.com/rmbriggs/synzoia)
 
 # 💻 Tech Stack:
 **Languages:**  
